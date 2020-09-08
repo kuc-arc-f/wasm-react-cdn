@@ -4,9 +4,9 @@
 
  Author  : Kouji Nakashima / kuc-arc-f.com
 
- date    : 2020/09/07
+ date    : 2020/09/07 
 
- update :
+ update : 2020/09/08
 
 ***
 
@@ -22,6 +22,7 @@ wasm-pack build --target no-modules
 ***
 ### more
 
+https://note.com/knaka0209/n/nb8fbc9b2a686
 
 ***
 
